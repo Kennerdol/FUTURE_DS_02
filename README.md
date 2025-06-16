@@ -43,7 +43,7 @@ The dataset consists of over 8,000 customer support tickets with the following k
 ### Project Files
 - 👉[customer_support_tickets.csv](https://github.com/Kennerdol/FUTURE_DS_02/blob/main/customer_support_tickets.csv) – Original dataset containing hospital-related information.
 - 👉[customer_support_data_analyis.ipynb](https://github.com/Kennerdol/FUTURE_DS_02/blob/main/customer_support_data_analyis.ipynb) – Notebook script.
-- 👉[README.md](https://github.com/Kennerdol/FUTURE_DS_02/blob/main/README.md)– Documentation for project insights.
+- 👉[README.md](https://github.com/Kennerdol/FUTURE_DS_02/blob/main/README.md)– Project dcumentation.
 
 
 ### Author
