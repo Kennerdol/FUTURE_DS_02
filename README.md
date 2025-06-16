@@ -24,7 +24,18 @@ The dataset consists of over 8,000 customer support tickets with the following k
 - Ticket Type, Priority, Channel, Status – Metadata about the ticket.
 - First Response Time, Time to Resolution, Created/Resolved Date – Used to calculate delays.
 - Customer Satisfaction Rating – To gauge service quality.
+
+### Key Analyses
+- Text Analysis of Issues
+- Time Delay Metrics
+- Trend Spotting & Performance Bottlenecks
   
+### Recommendations
+- Implement auto-response systems to improve first response time.
+- Offer guided solutions (e.g., FAQ links, troubleshooting wizards) for frequent issues.
+- Monitor high-delay categories and consider workflow optimization or staff training.
+- Use ticket triaging to handle priority cases more efficiently.
+
 ### Project Files
 - 👉[customer_support_tickets.csv](https://github.com/Kennerdol/FUTURE_DS_02/blob/main/customer_support_tickets.csv) – Original dataset containing hospital-related information.
 - 👉[customer_support_data_analyis.ipynb](https://github.com/Kennerdol/FUTURE_DS_02/blob/main/customer_support_data_analyis.ipynb) – Notebook script.
