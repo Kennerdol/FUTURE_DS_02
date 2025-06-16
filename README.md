@@ -4,6 +4,10 @@
   - [Project Overview](#project-overview)
   - [Objectives and Features](#objectives-and-features)
   - [Tools](#tools)
+  - [Dataset Description](#dataset-description)
+  - [Key Analyses](#key-analyses)
+  - [Recommendations](#recommendations)
+  - [Project Files](#project-files)
   - [Author](#author)
 
 ## Project Overview
