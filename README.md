@@ -1,4 +1,4 @@
-# CUSTOMER SUPPORT DATA ANALYSIS & TICKET RESOLUTION
+# Customer Support Data Analysis & Ticket Resolution
 
 ## Table of Content
   - [Project Overview](#project-overview)
@@ -16,7 +16,7 @@ The goal of this project is to analyze customer support tickets to:
 
 ### Tools Used
 - Excel – For manual inspection and summary statistics.
-- Python (Pandas, NLTK) – For data cleaning, analysis, and text mining.
+- Python (Pandas, NLTK, Matplotlib, Seaborn) – For data cleaning, analysis, text mining and ploting.
 
 ### Dataset Description
 The dataset consists of over 8,000 customer support tickets with the following key fields:
